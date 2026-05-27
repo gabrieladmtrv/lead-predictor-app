@@ -45,6 +45,7 @@ input {
   padding: 20px;
   border-radius: 12px;
   width: 200px;
+  box-shadow: 0 0 10px black;
 }
 
 .card p {
