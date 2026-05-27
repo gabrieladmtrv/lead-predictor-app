@@ -60,4 +60,5 @@ input {
 
 .sliders input {
   margin-bottom: 20px;
+  cursor: pointer;
 }
