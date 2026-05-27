@@ -62,3 +62,16 @@ input {
   margin-bottom: 20px;
   cursor: pointer;
 }
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .cards {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+  }
+}
